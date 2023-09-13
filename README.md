@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project 
+
+this is a portfolio project
+
+## info
+this is a secondary github account 
+refer to main account on [github](http://github.com/supermanas)
 
 ## Getting Started
 
